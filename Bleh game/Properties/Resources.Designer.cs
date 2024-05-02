@@ -63,9 +63,29 @@ namespace Bleh_game.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _360_F_111474023_0BQqfF2GEkeo8Ou3dkAk1eWie6KQ1AKr {
+            get {
+                object obj = ResourceManager.GetObject("_360_F_111474023_0BQqfF2GEkeo8Ou3dkAk1eWie6KQ1AKr", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap car {
             get {
                 object obj = ResourceManager.GetObject("car", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap you {
+            get {
+                object obj = ResourceManager.GetObject("you", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
